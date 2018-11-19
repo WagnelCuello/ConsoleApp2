@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ConsoleApp2.Problemas;
 
 namespace ConsoleApp2
 {
@@ -10,7 +11,8 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-
+            Class1.GetProblema1();
+            Class2.GetProblema2();
         }
     }
 }
