@@ -14,6 +14,7 @@ namespace ConsoleApp2
             Class1.GetProblema1();
             Class2.GetProblema2();
             Class3.GetProblema3();
+            Class4.GetProblema4();
         }
     }
 }
