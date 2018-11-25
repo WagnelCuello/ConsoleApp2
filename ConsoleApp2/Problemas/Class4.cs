@@ -8,6 +8,9 @@ namespace ConsoleApp2.Problemas
 {
     class Class4
     {
+        /// <summary>
+        /// este metodo se encarga de convertir pesos en dolares
+        /// </summary>
         public static void GetProblema4()
         {
             Console.WriteLine("===> CONVERSOR DE MONEDAS <===");
