@@ -22,7 +22,10 @@ namespace ConsoleApp2.Problemas
             Console.Write("Ingrese el volumen: ");
             double volumen = Convert.ToDouble(Console.ReadLine());
 
-            double masa = (presion * volumen) / (0.37 * (temperatura + 460));            Console.WriteLine("La masa del aire es de {0}", masa);            Console.ReadKey();
+            double masa = (presion * volumen) / (0.37 * (temperatura + 460));
+
+            Console.WriteLine("La masa del aire es de {0}", masa);
+            Console.ReadKey();
         }
     }
 }

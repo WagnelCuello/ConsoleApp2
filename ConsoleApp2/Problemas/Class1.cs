@@ -19,7 +19,7 @@ namespace ConsoleApp2.Problemas
 
             double perimetro = lado + 4;
 
-            Console.WriteLine("El perimetro del cuadrado es de {}", perimetro);
+            Console.WriteLine("El perimetro del cuadrado es de {0}", perimetro);
             Console.ReadKey();
         }
     }
